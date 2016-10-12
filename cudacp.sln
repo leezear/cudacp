@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cudacp", "cudacp\cudacp.vcxproj", "{756E44CC-005F-4F25-9432-4F5C11610003}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Model", "Model\Model.vcxproj", "{D2916EF6-C3D5-401D-8313-7CD95BAF7470}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,12 @@ Global
 		{756E44CC-005F-4F25-9432-4F5C11610003}.Release|Win32.Build.0 = Release|Win32
 		{756E44CC-005F-4F25-9432-4F5C11610003}.Release|x64.ActiveCfg = Release|x64
 		{756E44CC-005F-4F25-9432-4F5C11610003}.Release|x64.Build.0 = Release|x64
+		{D2916EF6-C3D5-401D-8313-7CD95BAF7470}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2916EF6-C3D5-401D-8313-7CD95BAF7470}.Debug|Win32.Build.0 = Debug|Win32
+		{D2916EF6-C3D5-401D-8313-7CD95BAF7470}.Debug|x64.ActiveCfg = Debug|Win32
+		{D2916EF6-C3D5-401D-8313-7CD95BAF7470}.Release|Win32.ActiveCfg = Release|Win32
+		{D2916EF6-C3D5-401D-8313-7CD95BAF7470}.Release|Win32.Build.0 = Release|Win32
+		{D2916EF6-C3D5-401D-8313-7CD95BAF7470}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
